@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2016/05/05/tuhaoyangcheng/</loc>
+    
+    <lastmod>2016-05-05T18:28:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/04/29/zhihu-1/</loc>
+    
+    <lastmod>2016-05-05T18:27:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/05/05/zhihu-21/</loc>
     
     <lastmod>2016-05-05T17:51:00.000Z</lastmod>
@@ -65,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/05/05/zhihu-11/</loc>
+    <loc>http://yoursite.com/2016/05/05/zhihu-12/</loc>
     
     <lastmod>2016-05-05T17:40:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/05/05/zhihu-12/</loc>
+    <loc>http://yoursite.com/2016/05/05/zhihu-11/</loc>
     
     <lastmod>2016-05-05T17:40:00.000Z</lastmod>
     
@@ -145,13 +159,6 @@
     <loc>http://yoursite.com/2016/04/29/zhihu-2/</loc>
     
     <lastmod>2016-04-29T22:21:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/04/29/zhihu-1/</loc>
-    
-    <lastmod>2016-04-29T22:21:08.000Z</lastmod>
     
   </url>
   
